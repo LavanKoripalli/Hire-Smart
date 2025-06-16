@@ -1,8 +1,9 @@
 # Hire-Smart
  ✅
  Sprint 1: Backend Development – Java & DB Layer
- 📌
- Sprint Theme:
+ 
+ 
+ 📌Sprint Theme:
  Design data schema for candidates and jobs, implement Java logic using OOP, and perform DB 
  operations with JDBC integration.
  
